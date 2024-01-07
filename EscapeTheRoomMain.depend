@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1641316563 source:d:\ati\1st semester\sp\project\escapetheroommain\main.cpp
+	<iostream>
+	<stdlib.h>
+	<iomanip>
+	<ctime>
+	<time.h>
+	<conio.h>
+	<string>
+
